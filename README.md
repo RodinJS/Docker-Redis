@@ -12,8 +12,8 @@ Redis is an open-source, networked, in-memory, key-value data store with optiona
 
 # Supported tags and respective `Dockerfile` links
 
--	[`4.0.1`, `4.0`, `4`, `latest` (*4.0/Dockerfile*)](https://github.com/docker-library/redis/blob/1d6d5acf99aedd42aa0195ad5f22b8ffa6841f96/4.0/Dockerfile)
--	[`4.0.1-alpine`, `4.0-alpine`, `4-alpine`, `alpine` (*4.0/alpine/Dockerfile*)](https://github.com/docker-library/redis/blob/1d6d5acf99aedd42aa0195ad5f22b8ffa6841f96/4.0/alpine/Dockerfile)
+-	[`4.0.1`, `4.0`, `4`, `latest` (*4.0/Dockerfile*)](https://github.com/RodinJS/Docker-Redis/blob/master/4.0/Dockerfile)
+-	[`4.0.1-alpine`, `4.0-alpine`, `4-alpine`, `alpine` (*4.0/alpine/Dockerfile*)](https://github.com/RodinJS/Docker-Redis/blob/master/4.0/alpine/Dockerfile)
 
 
 
