@@ -9,6 +9,14 @@ Redis is an open-source, networked, in-memory, key-value data store with optiona
 
 ![logo](https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/redis/logo.png)
 
+
+# Supported tags and respective `Dockerfile` links
+
+-	[`4.0.1`, `4.0`, `4`, `latest` (*4.0/Dockerfile*)](https://github.com/docker-library/redis/blob/1d6d5acf99aedd42aa0195ad5f22b8ffa6841f96/4.0/Dockerfile)
+-	[`4.0.1-alpine`, `4.0-alpine`, `4-alpine`, `alpine` (*4.0/alpine/Dockerfile*)](https://github.com/docker-library/redis/blob/1d6d5acf99aedd42aa0195ad5f22b8ffa6841f96/4.0/alpine/Dockerfile)
+
+
+
 # How to use this image
 
 ## start a redis instance
